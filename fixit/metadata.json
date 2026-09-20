@@ -1,0 +1,8 @@
+{
+  "name": "Remix FixIt Shashemene",
+  "description": "Local service marketplace in Shashemene connecting customers with nearby verified workers, with AI problem diagnosis, worker matching, job tracking, and real-time messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
